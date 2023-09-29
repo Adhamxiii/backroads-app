@@ -3,6 +3,7 @@
 Backroads is a React application designed to showcase travel tours and services. This README provides an overview of the project structure and components.
 
 ## Table of Contents
+
 - [Usage](#usage)
 - [Components](#components)
 - [Data](#data)
@@ -70,7 +71,7 @@ The project uses data from external sources. Check the `data` folder for data re
 ## Live Demo
 
 You can experience the live demo of the Backroads React App at the following URL:
-[Live Demo](https://your-live-demo-url.com)
+[Live Demo](https://backroads-app-delta.vercel.app/)
 
 ## Contributing
 
@@ -83,3 +84,8 @@ Contributions to this project are welcome. If you'd like to make improvements or
 5. Create a pull request with a description of your changes.
 
 Connect with me if you have any questions or feedback regarding the project.
+
+- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
+- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+
+Thank you, Happy coding! 🚀🌍
