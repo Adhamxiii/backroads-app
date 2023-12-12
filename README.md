@@ -71,7 +71,7 @@ The project uses data from external sources. Check the `data` folder for data re
 ## Live Demo
 
 You can experience the live demo of the Backroads React App at the following URL:
-[Live Demo](https://backroads-app-delta.vercel.app/)
+[Live Demo](https://backroads-app-roan.vercel.app/)
 
 ## Contributing
 
@@ -83,9 +83,12 @@ Contributions to this project are welcome. If you'd like to make improvements or
 4. Push to the branch: `git push origin feature-name`.
 5. Create a pull request with a description of your changes.
 
-Connect with me if you have any questions or feedback regarding the project.
+## Contributing
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+Feel free to contribute to this project. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
+
+## Contact Me
+
+If you have any questions or suggestions, feel free to contact me:
 
 Thank you, Happy coding! 🚀🌍
